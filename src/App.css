@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+  max-width: 40vw;
+  height: 40vh;
+  max-height: 40vh;
+  margin: 30vh auto;
+  background: #fff;
+  border-radius: 6px;
+  -webkit-box-shadow: 0px 1px 5px 1px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 0px 1px 5px 1px rgba(0, 0, 0, 0.75);
+  box-shadow: 0px 1px 5px 1px rgba(0, 0, 0, 0.75);
+}

@@ -1,0 +1,6 @@
+body {
+  background: url("riv_hills_bg.png");
+  background-size: cover;
+  background-color: rgb(96, 248, 240);
+  overflow: hidden;
+}
